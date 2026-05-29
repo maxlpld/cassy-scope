@@ -91,7 +91,7 @@ $$
 then converts the result back to amplitude and phase:
 
 $$
-A = \sqrt{a^2 + b^2}, \qquad C = \operatorname{atan2}(b, a).
+A = \sqrt{a^2 + b^2}, \qquad C = \mathrm{atan2}(b, a).
 $$
 
 ## Installation on Ubuntu
